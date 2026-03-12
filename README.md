@@ -29,11 +29,11 @@ A full-stack web application that helps university students report and recover l
 ## Screenshots
 <img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/17699071-7ca2-4a9a-a32a-ee055cb3c0c4" />
 <br/>
-<img width="733" height="850" alt="image" src="https://github.com/user-attachments/assets/04408dfc-f68d-4a00-b5a3-e74a0d1c3ae8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/04408dfc-f68d-4a00-b5a3-e74a0d1c3ae8" />
 <br/>
-<img width="603" height="667" alt="image" src="https://github.com/user-attachments/assets/573bf998-50d4-49c3-bba5-e1a80001b3d6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/573bf998-50d4-49c3-bba5-e1a80001b3d6" />
 <br/>
-<img width="638" height="452" alt="image" src="https://github.com/user-attachments/assets/a39a924f-0860-4a01-9865-e058b96dae2f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a39a924f-0860-4a01-9865-e058b96dae2f" />
 
 
 

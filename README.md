@@ -6,13 +6,13 @@ A full-stack web application that helps university students report and recover l
 
 ## 🌟 Features
 
-- 📢 Post lost or found items
-- 🖼️ Upload image of the item
-- 🔍 Filter by type, category and status
-- 📊 Live stats — lost, found and resolved counts
-- ✅ Mark items as resolved when returned
-- 🗑️ Delete posts
-- 📱 Responsive and clean UI
+- Post lost or found items
+- Upload image of the item
+- Filter by type, category and status
+- Live stats — lost, found and resolved counts
+- Mark items as resolved when returned
+- Delete posts
+- Responsive and clean UI
 
 ---
 
